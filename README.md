@@ -4,7 +4,7 @@
 </p>
 
 This repository contains MATLAB implementations of fundamental numerical analysis techniques, developed as part of a **Numerical Analysis** course.  
-[Check out my Notion page](https://mesbahnaeem.notion.site/)
+
 
 
 ## Topics Covered
