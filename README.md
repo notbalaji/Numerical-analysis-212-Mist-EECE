@@ -8,7 +8,7 @@ This repository contains MATLAB implementations of fundamental numerical analysi
 
 
 ## Topics Covered
-- Diffrencial NUmerical analysis  
+- Diffrencial Numerical analysis  
 
 ## Language
 - MATLAB
